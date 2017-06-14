@@ -1,0 +1,1 @@
+export { LibModule } from './components/lib.module';
